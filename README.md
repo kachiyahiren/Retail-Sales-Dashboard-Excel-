@@ -113,7 +113,7 @@ The dashboard provides a comprehensive view of business performance using KPIs, 
 ---
 
 ## 📷 Dashboard Preview
-![Retail Dashboard]([./retail_dashboard.png](https://github.com/kachiyahiren/Retail-Sales-Dashboard-Excel-/blob/main/Retail%20Sales%20Dashboard.png))
+![Retail Dashboard](https://github.com/kachiyahiren/Retail-Sales-Dashboard-Excel-/blob/main/Retail%20Sales%20Dashboard.png)
 
 ---
 
